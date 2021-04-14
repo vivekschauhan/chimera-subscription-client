@@ -1,0 +1,4 @@
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
+github.com/vivekschauhan/chimera-client-go v0.0.0-20210414044422-be18fc757c3f h1:eB4SvOIh+8MOLXmWgBE9fn01Rm1ppGOhZt0FCVCXx6k=
+github.com/vivekschauhan/chimera-client-go v0.0.0-20210414044422-be18fc757c3f/go.mod h1:qmlXVtbajbqVHn1paCH5PBtZjMj9mOdTFj6jA+tW/3c=
