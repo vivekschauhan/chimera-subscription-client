@@ -21,7 +21,7 @@ var queueName string
 var lifeTime int
 
 func init() {
-	flag.StringVar(&destination, "d", "chimera.platform.axwaytest.net", "Chimera host name")
+	flag.StringVar(&destination, "d", "chimera.platform.axway.com", "Chimera host name")
 	flag.StringVar(&authToken, "t", "", "Auth token for Chimera")
 	flag.StringVar(&queueName, "qn", "traceability_agent", "Chimera queue name")
 	flag.StringVar(&query, "q", `{"$match": {"content.type": "transactionSummary"}}`, "Chimera filter query")
